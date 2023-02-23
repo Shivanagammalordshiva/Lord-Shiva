@@ -4,5 +4,5 @@ date
 echo "Hello Everyone am new to the places."
 touch /tmp/tempin.txt
 echo "Hello Telugu New year"
-
+echo "Today date is 23rd Feb"
 
