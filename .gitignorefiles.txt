@@ -1,0 +1,7 @@
+.test.txt
+.git.java
+.hello.sh
+.gitignorefiles.txt
+node_modules
+
+
